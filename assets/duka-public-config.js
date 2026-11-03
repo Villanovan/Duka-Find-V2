@@ -1,1 +1,1 @@
-window.DukaPublicConfig={"url":"https://otxelmhzhzxgdxrkimht.supabase.co","publicKey":"sb_publishable_GALUSbw2z0BmuuKT43soQg_m0_LzNwO","operator":"Bitware Tech Solutions","country":"Uganda","support":"dukafind@gmail.com","termsVersion":"2026-11-02","minimumAge":18};
+window.DukaPublicConfig={"url":"https://nqiriauryngplozctiej.supabase.co","publicKey":"sb_publishable_2zrlRacHoQ355mV3NLUVoQ_wZ7Cqtse","operator":"Bitware Tech Solutions","country":"Uganda","support":"dukafind@gmail.com","termsVersion":"2026-11-02","minimumAge":18};
